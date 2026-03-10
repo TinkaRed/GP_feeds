@@ -1,1 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>10.03 GS for GP no variants</title>
+    <link>https://pupupu24444.com/</link>
+    <description>10.03 GS for GP no variants</description>
 
+    <item>
+      <g:id>bike-axel-90421</g:id>
+      <title>TrailGuard Reflective Frame Protection Kit</title>
+      <g:description>TrailGuard Reflective Frame Protection Kit High visibility reflective protection tape designed for mountain and road bike frames to improve night riding safety.</g:description>
+      <link>https://pupupu2.com/products/trailguard-frame-kit</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>test Cycling</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>49.0000 GBP</g:price>
+      <g:item_group_id>trailguard-kit-904</g:item_group_id>
+      <g:color>Neon Silver</g:color>
+      <g:mpn>TG-90421-FRK</g:mpn>
+      <g:quantity>5</g:quantity>
+    </item>
+
+    <item>
+      <g:id>bike-lumen-77563</g:id>
+      <title>NightRide Lumen Reflective Wheel Stripe Set</title>
+      <g:description>NightRide Lumen Reflective Wheel Stripe Set Reflective wheel stripe kit designed for enhanced visibility and stylish night riding on road and commuter bikes.</g:description>
+      <link>https://pupupu2.com/products/nightride-wheel-stripes</link>
+      <g:image_link>https://www.balfesbikes.co.uk/images/products/0/00/00.2418.140.000_59038-2.png?height=800&amp;width=800&amp;quality=70&amp;origin=CUSTOM_INC_TECHSPEC</g:image_link>
+      <g:brand>NightRide Cycling</g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>35.0000 GBP</g:price>
+      <g:item_group_id>nightride-stripe-775</g:item_group_id>
+      <g:color>Reflective White</g:color>
+      <g:mpn>NR-77563-WRS</g:mpn>
+      <g:quantity>8</g:quantity>
+    </item>
+
+  </channel>
+</rss>
