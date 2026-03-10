@@ -15,6 +15,7 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>49.0000 GBP</g:price>
+      <g:sale_price>60.0000 GBP</g:sale_price>
       <g:item_group_id>trailguard-kit-904</g:item_group_id>
       <g:color>Neon Silver</g:color>
       <g:mpn>TG-90421-FRK</g:mpn>
@@ -31,6 +32,7 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>35.0000 GBP</g:price>
+      <g:sale_price>50.0000 GBP</g:sale_price>
       <g:item_group_id>nightride-stripe-775</g:item_group_id>
       <g:color>Reflective White</g:color>
       <g:mpn>NR-77563-WRS</g:mpn>
