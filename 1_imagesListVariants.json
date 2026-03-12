@@ -1,0 +1,49 @@
+{
+  "title": "1imagesListVariants product",
+  "link": "https://www.test01.co.uk/",
+  "description": "1imagesListVariants product",
+  "products": [
+    {
+      "id": "PRD555555",
+      "title": "imagesListVariants product",
+      "description": "imagesListVariants product - description",
+      "image_urls": [
+        "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+        "https://aicdn.speedsize.com/4190f681-07cb-43aa-92d2-6096b01e7b62/https://cms-upgrade.ribblecycles.co.uk.cfstack.com/assets/images/products/bikes/CGR-V2/CGR-E-Carbon-X/Ultegra-Di2/CGR_e-Carbon-x_UltergraDi2_0009.jpg?speedsize=f_auto,enh,w_1200,h_900",
+        "https://aicdn.speedsize.com/4190f681-07cb-43aa-92d2-6096b01e7b62/https://cms-upgrade.ribblecycles.co.uk.cfstack.com/assets/images/products/bikes/CGR-V2/CGR-E-Carbon-X/Ultegra-Di2/CGR_e-Carbon-x_UltergraDi2_0005.jpg?speedsize=f_auto,enh,w_1200,h_900"
+      ],
+      "variants": [
+        {
+          "id": "PRD555555-01",
+          "brand": "Chain brand",
+          "rrp": 1429,
+          "price": 1429,
+          "in_stock": true,
+          "option1": "black / Extra Small Tiagra Hydro Disc",
+          "option2": "DT Swiss G1800 P7 Sport 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "PRD555555-02",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "blue / Extra Small Tiagra Hydro Disc",
+          "option2": "Vision SC45 PZ Road 32mm Black HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        },
+        {
+          "id": "PRD555555-03",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": true,
+          "option1": "red / Extra Small Tiagra Hydro Disc",
+          "option2": "Mavic Cosmic S P Zero Road 32mm HG",
+          "option3": "Alloy Bar & RS2 Stem / MODEL X Superflow Saddle"
+        }
+      ]
+    }
+  ]
+}
