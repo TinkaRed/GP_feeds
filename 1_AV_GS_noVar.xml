@@ -10,123 +10,133 @@
     <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/test.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <g:id>AV25</g:id>
-      <g:title>TEST_numeric_value_quantity_1</g:title>
+      <g:id>AV01</g:id>
+      <g:title>one TEST_numeric_value_quantity_1</g:title>
       <g:availability>1</g:availability>
     </item>
     <item>
-      <g:id>AV30</g:id>
-      <g:title>TEST_numeric_value_quantity_0</g:title>
-      <g:availability>0</g:availability>
-    </item>
-     <item>
-      <g:id>AV01</g:id>
-      <g:title>TEST_yes_quantity_10</g:title>
-      <g:availability>yes</g:availability>
+      <g:id>AV02</g:id>
+      <g:title>two TEST_numeric_value_quantity_10</g:title>
+      <g:availability>10</g:availability>
     </item>
     <item>
-      <g:id>AV02</g:id>
-      <g:title>TEST_Yes_quantity_10</g:title>
-      <g:availability>Yes</g:availability>
-    </item>
-      <item>
       <g:id>AV03</g:id>
-      <g:title>TEST_y_quantity_10</g:title>
-      <g:availability>y</g:availability>
+      <g:title>three TEST_numeric_value_quantity_0</g:title>
+      <g:availability>0</g:availability>
     </item>
     <item>
       <g:id>AV04</g:id>
-      <g:title>TEST_Y_quantity_10</g:title>
-      <g:availability>Y</g:availability>
+      <g:title>four TEST_yes_quantity_10</g:title>
+      <g:availability>yes</g:availability>
     </item>
     <item>
       <g:id>AV05</g:id>
-      <g:title>TEST_in_stock_quantity_10</g:title>
-      <g:availability>in stock</g:availability>
+      <g:title>five TEST_Yes_quantity_10</g:title>
+      <g:availability>Yes</g:availability>
     </item>
     <item>
       <g:id>AV06</g:id>
-      <g:title>TEST_available_quantity_10</g:title>
+      <g:title>six TEST_y_quantity_10</g:title>
+      <g:availability>y</g:availability>
+    </item>
+    <item>
+      <g:id>AV07</g:id>
+      <g:title>seven TEST_Y_quantity_10</g:title>
+      <g:availability>Y</g:availability>
+    </item>
+    <item>
+      <g:id>AV08</g:id>
+      <g:title>eight TEST_in_stock_quantity_10</g:title>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>AV09</g:id>
+      <g:title>nine TEST_inStock_quantity_10</g:title>
+      <g:availability>inStock</g:availability>
+    </item>
+    <item>
+      <g:id>AV10</g:id>
+      <g:title>ten TEST_available_quantity_10</g:title>
       <g:availability>available</g:availability>
     </item>
     <item>
-      <g:id>AV26</g:id>
-      <g:title>TEST_boolean_value_quantity_0</g:title>
-      <g:availability>true</g:availability>
-    </item>
-        <item>
-      <g:id>AV12</g:id>
-      <g:title>TEST_no_quantity_0</g:title>
-      <g:availability>no</g:availability>
-    </item>
-    <item>
-      <g:id>AV13</g:id>
-      <g:title>TEST_No_quantity_0</g:title>
-      <g:availability>No</g:availability>
-    </item>
-    <item>
-      <g:id>AV14</g:id>
-      <g:title>TEST_n_quantity_0</g:title>
-      <g:availability>n</g:availability>
-    </item>
-    <item>
-      <g:id>AV15</g:id>
-      <g:title>TEST_N_quantity_0</g:title>
-      <g:availability>N</g:availability>
-    </item>
-    <item>
-      <g:id>AV16</g:id>
-      <g:title>TEST_out_of_stock_quantity_0</g:title>
-      <g:availability>out of stock</g:availability>
-    </item>
-    <item>
-      <g:id>AV17</g:id>
-      <g:title>TEST_unavailable_quantity_0</g:title>
+      <g:id>AV11</g:id>
+      <g:title>eleven TEST_unavailable_quantity_0</g:title>
       <g:availability>unavailable</g:availability>
     </item>
     <item>
-      <g:id>AV18</g:id>
-      <g:title>TEST_not_available_quantity_0</g:title>
+      <g:id>AV12</g:id>
+      <g:title>twelve TEST_not_available_quantity_0</g:title>
       <g:availability>not available</g:availability>
     </item>
     <item>
-      <g:id>AV27</g:id>
-      <g:title>TEST_boolean_value_quantity_0</g:title>
+      <g:id>AV13</g:id>
+      <g:title>thirteen TEST_no_quantity_0</g:title>
+      <g:availability>no</g:availability>
+    </item>
+    <item>
+      <g:id>AV14</g:id>
+      <g:title>fourteen TEST_No_quantity_0</g:title>
+      <g:availability>No</g:availability>
+    </item>
+    <item>
+      <g:id>AV15</g:id>
+      <g:title>fifteen TEST_n_quantity_0</g:title>
+      <g:availability>n</g:availability>
+    </item>
+    <item>
+      <g:id>AV16</g:id>
+      <g:title>sixteen TEST_N_quantity_0</g:title>
+      <g:availability>N</g:availability>
+    </item>
+    <item>
+      <g:id>AV17</g:id>
+      <g:title>seventeen TEST_out_of_stock_quantity_0</g:title>
+      <g:availability>out of stock</g:availability>
+    </item>
+    <item>
+      <g:id>AV18</g:id>
+      <g:title>eighteen TEST_boolean_value_quantity_0</g:title>
       <g:availability>FALSE</g:availability>
     </item>
     <item>
       <g:id>AV19</g:id>
-      <g:title>TEST_empty_quantity_0</g:title>
-      <g:availability></g:availability>
+      <g:title>nineteen TEST_boolean_value_quantity_0</g:title>
+      <g:availability>true</g:availability>
     </item>
     <item>
       <g:id>AV20</g:id>
-      <g:title>TEST_space_before_no_quantity_0</g:title>
-      <g:availability> no</g:availability>
+      <g:title>twenty TEST_empty_quantity_0</g:title>
+      <g:availability></g:availability>
     </item>
     <item>
       <g:id>AV21</g:id>
-      <g:title>TEST_space_after_no_quantity_0</g:title>
-      <g:availability>no </g:availability>
+      <g:title>twenty-one TEST_space_before_no_quantity_0</g:title>
+      <g:availability> no</g:availability>
     </item>
     <item>
       <g:id>AV22</g:id>
-      <g:title>TEST_spaces_both_no_quantity_0</g:title>
+      <g:title>twenty-two TEST_space_after_no_quantity_0</g:title>
+      <g:availability>no </g:availability>
+    </item>
+    <item>
+      <g:id>AV23</g:id>
+      <g:title>twenty-three TEST_spaces_both_no_quantity_0</g:title>
       <g:availability> no </g:availability>
     </item>
     <item>
-      <g:id>AV07</g:id>
-      <g:title>TEST_space_before_yes_quantity_10</g:title>
+      <g:id>AV24</g:id>
+      <g:title>twenty-four TEST_space_before_yes_quantity_10</g:title>
       <g:availability> yes</g:availability>
     </item>
     <item>
-      <g:id>AV08</g:id>
-      <g:title>TEST_space_after_yes_quantity_10</g:title>
+      <g:id>AV25</g:id>
+      <g:title>twenty-five TEST_space_after_yes_quantity_10</g:title>
       <g:availability>yes </g:availability>
     </item>
     <item>
-      <g:id>AV09</g:id>
-      <g:title>TEST_spaces_both_yes_quantity_10</g:title>
+      <g:id>AV26</g:id>
+      <g:title>twenty-six TEST_spaces_both_yes_quantity_10</g:title>
       <g:availability> yes </g:availability>
     </item>
   </channel>
