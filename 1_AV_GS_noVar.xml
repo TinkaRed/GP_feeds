@@ -11,8 +11,13 @@
 
     <item>
       <g:id>AV25</g:id>
-      <g:title>TEST_numeric_value_quantity_0</g:title>
+      <g:title>TEST_numeric_value_quantity_1</g:title>
       <g:availability>1</g:availability>
+    </item>
+    <item>
+      <g:id>AV30</g:id>
+      <g:title>TEST_numeric_value_quantity_0</g:title>
+      <g:availability>0</g:availability>
     </item>
      <item>
       <g:id>AV01</g:id>
