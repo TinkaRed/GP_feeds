@@ -1,0 +1,38 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<metadata>
+<ref_application_id>674003023129411</ref_application_id>
+<ref_asset_id>40683</ref_asset_id>
+</metadata>
+<title>imagesLinks GoogleShipping feed</title>
+<description>imagesLinks GoogleShipping feed</description>
+<link>https://socialshop.onecommerce.io/</link>
+<atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/48e6d2ca1fe57fd88fd15a57c6d345ab.xml" rel="self" type="application/rss+xml"/>
+<item>
+<g:adult>no</g:adult>
+<g:condition>new</g:condition>
+<g:id>SSH_TEST01</g:id>
+<g:title>imagesLinks GoogleShipping feed - Golden Mango XXS</g:title>
+<g:description>imagesLinks GoogleShipping feed Ozmo Sidekick MIPS helmet for children is the market leading children's helmet for safety and design</g:description>
+<g:availability>in stock</g:availability>
+<g:price>84.99 GBP</g:price>
+<g:link>https://www.fullycharged.com/ozmo-sidekick-mips-helmet/</g:link>
+<g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+<g:brand>Ozmo</g:brand>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15609/Ozmo-Sidekick-MIPS-Grape-Juice-Fullycharged002__52215.1773328481.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15610/Ozmo-Sidekick-MIPS-Magic-Pearl-Fullycharged002__19653.1773328481.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15611/Ozmo-Sidekick-MIPS-Golden-Mango-Fullycharged003__54201.1773328481.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15612/Ozmo-Sidekick-MIPS-Sharke-Bite-Fullycharged003__24244.1773328607.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15613/Ozmo-Sidekick-MIPS-Golden-Mango-Fullycharged002__42168.1773328481.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15614/Ozmo-Sidekick-MIPS-Grape-Juice-Fullycharged003__68781.1773328481.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15615/Ozmo-Sidekick-MIPS-Magic-Pearl-Fullycharged003__12650.1773328481.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15616/Ozmo-Sidekick-MIPS-Super-Flash-Fullycharged002__02603.1773328607.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15617/Ozmo-Sidekick-MIPS-Urban-Racer-Fullycharged002__92695.1773328607.1280.1280.jpg?c=1</g:additional_image_link>
+<g:additional_image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/products/14532/images/15618/Ozmo-Sidekick-MIPS-Shark-Bite-Fullycharged002__27937.1773328607.1280.1280.jpg?c=1</g:additional_image_link>
+<g:item_group_id>3445</g:item_group_id>
+<g:product_type>physical</g:product_type>
+<g:shipping_weight>1 kg</g:shipping_weight>
+<g:custom_label_0>H-K25YELWS-XXSM</g:custom_label_0>
+</item>
+</channel>
+</rss>
