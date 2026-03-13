@@ -6,7 +6,7 @@
       <ref_asset_id>406890</ref_asset_id>
     </metadata>
     <title>availabilityGoogleShopping QA feed</title>
-    <description>Full availability QA test feed</description>
+    <description>availabilityCheck QA test feed</description>
     <link>https://socialshop.onecommerce3.io/</link>
     <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/test.xml" rel="self" type="application/rss+xml"/>
 
