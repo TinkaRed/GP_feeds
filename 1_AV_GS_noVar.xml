@@ -1,0 +1,128 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <metadata>
+      <ref_application_id>67</ref_application_id>
+      <ref_asset_id>406890</ref_asset_id>
+    </metadata>
+    <title>availabilityGoogleShopping QA feed</title>
+    <description>Full availability QA test feed</description>
+    <link>https://socialshop.onecommerce3.io/</link>
+    <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/test.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <g:id>AV25</g:id>
+      <g:title>TEST_numeric_value_quantity_0</g:title>
+      <g:availability>1</g:availability>
+    </item>
+     <item>
+      <g:id>AV01</g:id>
+      <g:title>TEST_yes_quantity_10</g:title>
+      <g:availability>yes</g:availability>
+    </item>
+    <item>
+      <g:id>AV02</g:id>
+      <g:title>TEST_Yes_quantity_10</g:title>
+      <g:availability>Yes</g:availability>
+    </item>
+      <item>
+      <g:id>AV03</g:id>
+      <g:title>TEST_y_quantity_10</g:title>
+      <g:availability>y</g:availability>
+    </item>
+    <item>
+      <g:id>AV04</g:id>
+      <g:title>TEST_Y_quantity_10</g:title>
+      <g:availability>Y</g:availability>
+    </item>
+    <item>
+      <g:id>AV05</g:id>
+      <g:title>TEST_in_stock_quantity_10</g:title>
+      <g:availability>in stock</g:availability>
+    </item>
+    <item>
+      <g:id>AV06</g:id>
+      <g:title>TEST_available_quantity_10</g:title>
+      <g:availability>available</g:availability>
+    </item>
+    <item>
+      <g:id>AV26</g:id>
+      <g:title>TEST_boolean_value_quantity_0</g:title>
+      <g:availability>true</g:availability>
+    </item>
+        <item>
+      <g:id>AV12</g:id>
+      <g:title>TEST_no_quantity_0</g:title>
+      <g:availability>no</g:availability>
+    </item>
+    <item>
+      <g:id>AV13</g:id>
+      <g:title>TEST_No_quantity_0</g:title>
+      <g:availability>No</g:availability>
+    </item>
+    <item>
+      <g:id>AV14</g:id>
+      <g:title>TEST_n_quantity_0</g:title>
+      <g:availability>n</g:availability>
+    </item>
+    <item>
+      <g:id>AV15</g:id>
+      <g:title>TEST_N_quantity_0</g:title>
+      <g:availability>N</g:availability>
+    </item>
+    <item>
+      <g:id>AV16</g:id>
+      <g:title>TEST_out_of_stock_quantity_0</g:title>
+      <g:availability>out of stock</g:availability>
+    </item>
+    <item>
+      <g:id>AV17</g:id>
+      <g:title>TEST_unavailable_quantity_0</g:title>
+      <g:availability>unavailable</g:availability>
+    </item>
+    <item>
+      <g:id>AV18</g:id>
+      <g:title>TEST_not_available_quantity_0</g:title>
+      <g:availability>not available</g:availability>
+    </item>
+    <item>
+      <g:id>AV27</g:id>
+      <g:title>TEST_boolean_value_quantity_0</g:title>
+      <g:availability>FALSE</g:availability>
+    </item>
+    <item>
+      <g:id>AV19</g:id>
+      <g:title>TEST_empty_quantity_0</g:title>
+      <g:availability></g:availability>
+    </item>
+    <item>
+      <g:id>AV20</g:id>
+      <g:title>TEST_space_before_no_quantity_0</g:title>
+      <g:availability> no</g:availability>
+    </item>
+    <item>
+      <g:id>AV21</g:id>
+      <g:title>TEST_space_after_no_quantity_0</g:title>
+      <g:availability>no </g:availability>
+    </item>
+    <item>
+      <g:id>AV22</g:id>
+      <g:title>TEST_spaces_both_no_quantity_0</g:title>
+      <g:availability> no </g:availability>
+    </item>
+    <item>
+      <g:id>AV07</g:id>
+      <g:title>TEST_space_before_yes_quantity_10</g:title>
+      <g:availability> yes</g:availability>
+    </item>
+    <item>
+      <g:id>AV08</g:id>
+      <g:title>TEST_space_after_yes_quantity_10</g:title>
+      <g:availability>yes </g:availability>
+    </item>
+    <item>
+      <g:id>AV09</g:id>
+      <g:title>TEST_spaces_both_yes_quantity_10</g:title>
+      <g:availability> yes </g:availability>
+    </item>
+  </channel>
+</rss>
