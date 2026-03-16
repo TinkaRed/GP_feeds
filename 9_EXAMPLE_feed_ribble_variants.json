@@ -1,0 +1,62 @@
+https://dashboard.dashrides.com/ribble_unified_feed.json
+
+{
+"title": "Ribble Cycles Product Feed",
+"link": "https://www.ribblecycles.co.uk/",
+"description": "Product feed for Ribble Cycles",
+"products": [
+{
+"id": "BULTSLR9200DBLK",
+"title": "Ribble Ultra-Aero SL R Dura Ace Di2",
+"description": "The bike that redefines speed. We have crafted a World Tour-worthy bike using a carefully curated selection of top-tier components, ready to compete at the highest level. In the range-topping Hero specification, the ULTRA-AERO SL R features Shimano's professional-grade Dura-Ace Di2 groupset, Zipp 303 SW aerodynamic carbon wheels, World Tour favourite Pirelli P Zero tyres, and 3D-printed Selle Italia SLR Boost Carbonio Superflow saddle. The integrated aerodynamic carbon cockpit completes the ultimate performance package.",
+"image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/u/l/ultra-aero_black_duraacedi2_001.jpg_1_.png",
+"variants": [
+{
+"id": "ceb5e1ef68d843f395d12b9170c5979080266022b9de2cff8d7834ceb0864f5d",
+"rrp": 7639,
+"price": 7389,
+"in_stock": true,
+"option1": "Black / Extra Small Dura Ace Di2",
+"option2": "Zipp 303 SW P Zero Race HG",
+"option3": "Integrated Bar / X3 XP Lady Boost Superflow Saddle"
+},
+{
+"id": "d8d457795ef30a0703584cec1253d33f279af9af812bf0976dd64dc6e25f6117",
+"rrp": 8639,
+"price": 8389,
+"in_stock": true,
+"option1": "Black / Extra Small Dura Ace Di2",
+"option2": "Zipp 454 NSW P Zero Race HG",
+"option3": "Integrated Bar / X3 XP Lady Boost Superflow Saddle"
+},
+{
+"id": "ceeb2d90491543025308413d36ec81300b124b303a81b8f7d5205f3c907b9f49",
+"rrp": 7639,
+"price": 7389,
+"in_stock": true,
+"option1": "Black / Small Dura Ace Di2",
+"option2": "Zipp 303 SW P Zero Race HG",
+"option3": "Integrated Bar / X3 XP Lady Boost Superflow Saddle"
+},
+{
+"id": "285b77b0679167546a965d59043c298699bb6d8b04ca483555e057ea34353397",
+"rrp": 8639,
+"price": 8389,
+"in_stock": true,
+"option1": "Black / Small Dura Ace Di2",
+"option2": "Zipp 454 NSW P Zero Race HG",
+"option3": "Integrated Bar / X3 XP Lady Boost Superflow Saddle"
+},
+{
+"id": "71d073ac16dd4c5b69f649270a4271e3b468974d8f1dcc28deac0a6752e45161",
+"rrp": 7639,
+"price": 7389,
+"in_stock": true,
+"option1": "Black / Medium Dura Ace Di2",
+"option2": "Zipp 303 SW P Zero Race HG",
+"option3": "Integrated Bar / X3 XP Lady Boost Superflow Saddle"
+}
+]
+}
+]
+}
