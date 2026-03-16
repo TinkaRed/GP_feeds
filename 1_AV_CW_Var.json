@@ -1,7 +1,7 @@
 {
   "title": "Availability QA Product Feed",
-  "link": "https://socialshop.onecommerce3.io/",
-  "description": "Full availability QA test feed with variants",
+  "link": "https://socialshop.onecommerce33.io/",
+  "description": "Full availability QA test feed CWvariants",
   "products": [
     {
       "id": "AVMCV-01",
@@ -12,28 +12,14 @@
           "id": "AVMCV-01-V1",
           "price": "35.00 GBP",
           "in_stock": "1"
-        }
-      ]
-    },
-    {
-      "id": "AVMCV-02",
-      "title": "two TEST numeric value quantity 10 CWvariants",
-      "description": "two TEST numeric value quantity 10 product description",
-      "variants": [
+        },
         {
-          "id": "AVMCV-02-V1",
+          "id": "AVMCV-01-V2",
           "price": "35.00 GBP",
           "in_stock": "10"
-        }
-      ]
-    },
-    {
-      "id": "AVMCV-03",
-      "title": "three TEST numeric value quantity 0 CWvariants",
-      "description": "three TEST numeric value quantity 0 product description",
-      "variants": [
+        },
         {
-          "id": "AVMCV-03-V1",
+          "id": "AVMCV-01-V3",
           "price": "35.00 GBP",
           "in_stock": "0"
         }
