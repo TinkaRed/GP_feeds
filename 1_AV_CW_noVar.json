@@ -1,0 +1,184 @@
+[
+  {
+    "id": "AVM - 01",
+    "Product Name": "one TEST numeric value quantity 1 no vatiants",
+    "Description": "one TEST numeric value quantity 1 product description",
+    "Price": "35.00 GBP",
+    "availability": "1"
+  },
+  {
+    "id": "AVM - 02",
+    "Product Name": "two TEST numeric value quantity 10 no vatiants",
+    "Description": "two TEST numeric value quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "10"
+  },
+  {
+    "id": "AVM - 03",
+    "Product Name": "three TEST numeric value quantity 0 no vatiants",
+    "Description": "three TEST numeric value quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "0"
+  },
+  {
+    "id": "AVM - 04",
+    "Product Name": "four TEST yes quantity 10 no vatiants",
+    "Description": "four TEST yes quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "yes"
+  },
+  {
+    "id": "AVM - 05",
+    "Product Name": "five TEST Yes quantity 10 no vatiants",
+    "Description": "five TEST Yes quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "Yes"
+  },
+  {
+    "id": "AVM - 06",
+    "Product Name": "six TEST y quantity 10 no vatiants",
+    "Description": "six TEST y quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "y"
+  },
+  {
+    "id": "AVM - 07",
+    "Product Name": "seven TEST Y quantity 10 no vatiants",
+    "Description": "seven TEST Y quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "Y"
+  },
+  {
+    "id": "AVM - 08",
+    "Product Name": "eight TEST in stock quantity 10 no vatiants",
+    "Description": "eight TEST in stock quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "in stock"
+  },
+  {
+    "id": "AVM - 09",
+    "Product Name": "nine TEST inStock quantity 10 no vatiants",
+    "Description": "nine TEST inStock quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "inStock"
+  },
+  {
+    "id": "AVM - 10",
+    "Product Name": "ten TEST available quantity 10 no vatiants",
+    "Description": "ten TEST available quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "available"
+  },
+  {
+    "id": "AVM - 11",
+    "Product Name": "eleven TEST unavailable quantity 0 no vatiants",
+    "Description": "eleven TEST unavailable quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "unavailable"
+  },
+  {
+    "id": "AVM - 12",
+    "Product Name": "twelve TEST not available quantity 0 no vatiants",
+    "Description": "twelve TEST not available quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "not available"
+  },
+  {
+    "id": "AVM - 13",
+    "Product Name": "thirteen TEST no quantity 0 no vatiants",
+    "Description": "thirteen TEST no quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "no"
+  },
+  {
+    "id": "AVM - 14",
+    "Product Name": "fourteen TEST No quantity 0 no vatiants",
+    "Description": "fourteen TEST No quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "No"
+  },
+  {
+    "id": "AVM - 15",
+    "Product Name": "fifteen TEST n quantity 0 no vatiants",
+    "Description": "fifteen TEST n quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "n"
+  },
+  {
+    "id": "AVM - 16",
+    "Product Name": "sixteen TEST N quantity 0 no vatiants",
+    "Description": "sixteen TEST N quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "N"
+  },
+  {
+    "id": "AVM - 17",
+    "Product Name": "seventeen TEST out of stock quantity 0 no vatiants",
+    "Description": "seventeen TEST out of stock quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "out of stock"
+  },
+  {
+    "id": "AVM - 18",
+    "Product Name": "eighteen TEST boolean value quantity 0 no vatiants",
+    "Description": "eighteen TEST boolean value quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "FALSE"
+  },
+  {
+    "id": "AVM - 19",
+    "Product Name": "nineteen TEST boolean value quantity 0 no vatiants",
+    "Description": "nineteen TEST boolean value quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "true"
+  },
+  {
+    "id": "AVM - 20",
+    "Product Name": "twenty TEST empty quantity 0 no vatiants",
+    "Description": "twenty TEST empty quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": ""
+  },
+  {
+    "id": "AVM - 21",
+    "Product Name": "twenty-one TEST space before no quantity 0 no vatiants",
+    "Description": "twenty-one TEST space before no quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": " no"
+  },
+  {
+    "id": "AVM - 22",
+    "Product Name": "twenty-two TEST space after no quantity 0 no vatiants",
+    "Description": "twenty-two TEST space after no quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": "no "
+  },
+  {
+    "id": "AVM - 23",
+    "Product Name": "twenty-three TEST spaces both no quantity 0 no vatiants",
+    "Description": "twenty-three TEST spaces both no quantity 0 product description",
+    "Price": "35.00 GBP",
+    "availability": " no "
+  },
+  {
+    "id": "AVM - 24",
+    "Product Name": "twenty-four TEST space before yes quantity 10 no vatiants",
+    "Description": "twenty-four TEST space before yes quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": " yes"
+  },
+  {
+    "id": "AVM - 25",
+    "Product Name": "twenty-five TEST space after yes quantity 10 no vatiants",
+    "Description": "twenty-five TEST space after yes quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": "yes "
+  },
+  {
+    "id": "AVM - 26",
+    "Product Name": "twenty-six TEST spaces both yes quantity 10 no vatiants",
+    "Description": "twenty-six TEST spaces both yes quantity 10 product description",
+    "Price": "35.00 GBP",
+    "availability": " yes "
+  }
+]
