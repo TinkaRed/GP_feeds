@@ -1,0 +1,319 @@
+{
+  "title": "Availability QA Product Feed",
+  "link": "https://socialshop.onecommerce3.io/",
+  "description": "Full availability QA test feed with variants",
+  "products": [
+    {
+      "id": "AVMCV-01",
+      "title": "one TEST numeric value quantity 1 CWvariants",
+      "description": "one TEST numeric value quantity 1 product description",
+      "variants": [
+        {
+          "id": "AVMCV-01-V1",
+          "price": "35.00 GBP",
+          "in_stock": "1"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-02",
+      "title": "two TEST numeric value quantity 10 CWvariants",
+      "description": "two TEST numeric value quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-02-V1",
+          "price": "35.00 GBP",
+          "in_stock": "10"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-03",
+      "title": "three TEST numeric value quantity 0 CWvariants",
+      "description": "three TEST numeric value quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-03-V1",
+          "price": "35.00 GBP",
+          "in_stock": "0"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-04",
+      "title": "four TEST yes quantity 10 CWvariants",
+      "description": "four TEST yes quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-04-V1",
+          "price": "35.00 GBP",
+          "in_stock": "yes"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-05",
+      "title": "five TEST Yes quantity 10 CWvariants",
+      "description": "five TEST Yes quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-05-V1",
+          "price": "35.00 GBP",
+          "in_stock": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-06",
+      "title": "six TEST y quantity 10 CWvariants",
+      "description": "six TEST y quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-06-V1",
+          "price": "35.00 GBP",
+          "in_stock": "y"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-07",
+      "title": "seven TEST Y quantity 10 CWvariants",
+      "description": "seven TEST Y quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-07-V1",
+          "price": "35.00 GBP",
+          "in_stock": "Y"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-08",
+      "title": "eight TEST in stock quantity 10 CWvariants",
+      "description": "eight TEST in stock quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-08-V1",
+          "price": "35.00 GBP",
+          "in_stock": "in stock"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-09",
+      "title": "nine TEST inStock quantity 10 CWvariants",
+      "description": "nine TEST inStock quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-09-V1",
+          "price": "35.00 GBP",
+          "in_stock": "inStock"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-10",
+      "title": "ten TEST available quantity 10 CWvariants",
+      "description": "ten TEST available quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-10-V1",
+          "price": "35.00 GBP",
+          "in_stock": "available"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-11",
+      "title": "eleven TEST unavailable quantity 0 CWvariants",
+      "description": "eleven TEST unavailable quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-11-V1",
+          "price": "35.00 GBP",
+          "in_stock": "unavailable"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-12",
+      "title": "twelve TEST not available quantity 0 CWvariants",
+      "description": "twelve TEST not available quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-12-V1",
+          "price": "35.00 GBP",
+          "in_stock": "not available"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-13",
+      "title": "thirteen TEST no quantity 0 CWvariants",
+      "description": "thirteen TEST no quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-13-V1",
+          "price": "35.00 GBP",
+          "in_stock": "no"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-14",
+      "title": "fourteen TEST No quantity 0 CWvariants",
+      "description": "fourteen TEST No quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-14-V1",
+          "price": "35.00 GBP",
+          "in_stock": "No"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-15",
+      "title": "fifteen TEST n quantity 0 CWvariants",
+      "description": "fifteen TEST n quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-15-V1",
+          "price": "35.00 GBP",
+          "in_stock": "n"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-16",
+      "title": "sixteen TEST N quantity 0 CWvariants",
+      "description": "sixteen TEST N quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-16-V1",
+          "price": "35.00 GBP",
+          "in_stock": "N"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-17",
+      "title": "seventeen TEST out of stock quantity 0 CWvariants",
+      "description": "seventeen TEST out of stock quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-17-V1",
+          "price": "35.00 GBP",
+          "in_stock": "out of stock"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-18",
+      "title": "eighteen TEST boolean value quantity 0 CWvariants",
+      "description": "eighteen TEST boolean value quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-18-V1",
+          "price": "35.00 GBP",
+          "in_stock": "FALSE"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-19",
+      "title": "nineteen TEST boolean value quantity 0 CWvariants",
+      "description": "nineteen TEST boolean value quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-19-V1",
+          "price": "35.00 GBP",
+          "in_stock": "true"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-20",
+      "title": "twenty TEST empty quantity 0 CWvariants",
+      "description": "twenty TEST empty quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-20-V1",
+          "price": "35.00 GBP",
+          "in_stock": ""
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-21",
+      "title": "twenty-one TEST space before no quantity 0 CWvariants",
+      "description": "twenty-one TEST space before no quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-21-V1",
+          "price": "35.00 GBP",
+          "in_stock": " no"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-22",
+      "title": "twenty-two TEST space after no quantity 0 CWvariants",
+      "description": "twenty-two TEST space after no quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-22-V1",
+          "price": "35.00 GBP",
+          "in_stock": "no "
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-23",
+      "title": "twenty-three TEST spaces both no quantity 0 CWvariants",
+      "description": "twenty-three TEST spaces both no quantity 0 product description",
+      "variants": [
+        {
+          "id": "AVMCV-23-V1",
+          "price": "35.00 GBP",
+          "in_stock": " no "
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-24",
+      "title": "twenty-four TEST space before yes quantity 10 CWvariants",
+      "description": "twenty-four TEST space before yes quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-24-V1",
+          "price": "35.00 GBP",
+          "in_stock": " yes"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-25",
+      "title": "twenty-five TEST space after yes quantity 10 CWvariants",
+      "description": "twenty-five TEST space after yes quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-25-V1",
+          "price": "35.00 GBP",
+          "in_stock": "yes "
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-26",
+      "title": "twenty-six TEST spaces both yes quantity 10 CWvariants",
+      "description": "twenty-six TEST spaces both yes quantity 10 product description",
+      "variants": [
+        {
+          "id": "AVMCV-26-V1",
+          "price": "35.00 GBP",
+          "in_stock": " yes "
+        }
+      ]
+    }
+  ]
+}
