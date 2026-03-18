@@ -11,17 +11,20 @@
         {
           "id": "AVMCV-01-V1",
           "price": "35.00 GBP",
-          "in_stock": "1"
+          "in_stock": "1",
+          "compare_price": "60.00 GBP"
         },
         {
           "id": "AVMCV-01-V2",
           "price": "35.00 GBP",
-          "in_stock": "10"
+          "in_stock": "10",
+          "compare_price": "40.00 GBP"
         },
         {
           "id": "AVMCV-01-V3",
           "price": "35.00 GBP",
-          "in_stock": "0"
+          "in_stock": "0",
+          "compare_price": "100.00 GBP"
         }
       ]
     },
