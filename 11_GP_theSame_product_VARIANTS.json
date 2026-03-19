@@ -1,0 +1,55 @@
+{
+  "title": "GP_theSame_product_VARIANTS",
+  "link": "https://testmy.io/",
+  "description": "GP_theSame_product_VARIANTS",
+  "products": [
+    {
+      "id": "AVMCV-101",
+      "title": "2026 Giant Revolt X Advanced Pro 1",
+      "description": "2026 Giant Revolt X Advanced Pro 1 description",
+      "brand": "giant",
+      "variants": [
+        {
+          "id": "AVMCV-101-V1",
+          "price": "125.00 GBP",
+          "in_stock": "1",
+          "compare_price": "200.00 GBP",
+          "size": "Small"
+        },
+        {
+          "id": "AVMCV-101-V2",
+          "price": "130.00 GBP",
+          "in_stock": "10",
+          "compare_price": "200.00 GBP",
+          "size": "medium"
+        },
+        {
+          "id": "AVMCV-101-V3",
+          "price": "135.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Large"
+        }
+      ]
+    },
+    {
+      "id": "AVMCV-202",
+      "title": "MiRiDER 20 Compact Folding Electric Bike",
+      "description": "MiRiDER 20 Compact Folding Electric Bike description",
+      "variants": [
+        {
+          "id": "AVMCV-202-V1",
+          "price": "400.00 GBP",
+          "in_stock": "2",
+          "color": "Aurora Green"
+        },
+        {
+          "id": "AVMCV-202-V2",
+          "price": "500.00 GBP",
+          "in_stock": "2",
+          "color": "Ember Orange"
+        }
+      ]
+    }
+  ]
+}
