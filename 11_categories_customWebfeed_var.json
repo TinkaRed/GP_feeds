@@ -1,4 +1,3 @@
-
 {
   "title": "categories_brand_customWebfeed_noVar",
   "link": "https://testmy1.io/",
@@ -166,6 +165,43 @@
           "price": "550.00 GBP",
           "in_stock": "2",
           "color": "Grey"
+        }
+      ]
+    },
+    {
+      "id": "AVMCW-10126",
+      "title": "Just a product for test",
+      "description": "Just a description for product, nobody understands what category is and a brand",
+      "brand": "",
+      "size_guide": [
+        {
+          "frame_size": "M",
+          "rider_height_cm": "165 – 178",
+          "rider_height_ft": "5'5\" - 5'10\""
+        },
+        {
+          "frame_size": "L",
+          "rider_height_cm": "178-185",
+          "rider_height_ft": "5'10\" - 6'1\""
+        },
+        {
+          "frame_size": "XL",
+          "rider_height_cm": "185 - 193",
+          "rider_height_ft": "6'1\" - 6'4\""
+        }
+      ],
+      "variants": [
+        {
+          "id": "AVMCW-10126-V1",
+          "price": "530.00 GBP",
+          "in_stock": "3",
+          "color": "Black"
+        },
+        {
+          "id": "AVMCW-10126-V2",
+          "price": "560.00 GBP",
+          "in_stock": "2",
+          "color": "White"
         }
       ]
     }
