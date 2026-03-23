@@ -1,172 +1,32 @@
-{
-  "title": "categories_brand_customWebfeed_noVar",
-  "link": "https://testmy1.io/",
-  "description": "categories_brand_customWebfeed_noVar",
-  "products": [
-    {
-      "id": "AVMCW-10122",
-      "title": "Bike Helmet for everyday ride",
-      "description": "Bike Helmet for everyday ride by Shimano. Light and durable",
-      "size_guide": [
-        {
-          "frame_size": "S",
-          "rider_height_cm": "158 – 165",
-          "rider_height_ft": "5'1\" - 5'5\""
-        },
-        {
-          "frame_size": "M",
-          "rider_height_cm": "165 – 178",
-          "rider_height_ft": "5'5\" - 5'10\""
-        },
-        {
-          "frame_size": "L",
-          "rider_height_cm": "178-185",
-          "rider_height_ft": "5'10\" - 6'1\""
-        },
-        {
-          "frame_size": "XL",
-          "rider_height_cm": "185 - 193",
-          "rider_height_ft": "6'1\" - 6'4\""
-        }
-      ],
-      "variants": [
-        {
-          "id": "AVMCW-10122-V1",
-          "price": "125.00 GBP",
-          "in_stock": "1",
-          "compare_price": "200.00 GBP",
-          "size": "Small"
-        },
-        {
-          "id": "AVMCW-10122-V2",
-          "price": "130.00 GBP",
-          "in_stock": "10",
-          "compare_price": "200.00 GBP",
-          "size": "medium"
-        },
-        {
-          "id": "AVMCW-10122-V3",
-          "price": "135.00 GBP",
-          "in_stock": "2",
-          "compare_price": "200.00 GBP",
-          "size": "Large"
-        }
-      ]
-    },
-    {
-      "id": "AVMCW-10123",
-      "title": "Full Suspension Mountain Bike by Giant brand",
-      "description": "Full Suspension Mountain Bike description",
-      "size_guide": [
-        {
-          "frame_size": "S",
-          "rider_height_cm": "158 – 165",
-          "rider_height_ft": "5'1\" - 5'5\""
-        },
-        {
-          "frame_size": "M",
-          "rider_height_cm": "165 – 178",
-          "rider_height_ft": "5'5\" - 5'10\""
-        },
-        {
-          "frame_size": "L",
-          "rider_height_cm": "178-185",
-          "rider_height_ft": "5'10\" - 6'1\""
-        },
-        {
-          "frame_size": "XL",
-          "rider_height_cm": "185 - 193",
-          "rider_height_ft": "6'1\" - 6'4\""
-        }
-      ],
-      "variants": [
-        {
-          "id": "AVMCW-10123-V1",
-          "price": "400.00 GBP",
-          "in_stock": "2",
-          "color": "Green"
-        },
-        {
-          "id": "AVMCW-10123-V2",
-          "price": "500.00 GBP",
-          "in_stock": "2",
-          "color": "Orange"
-        }
-      ]
-    },
-    {
-      "id": "AVMCW-10124",
-      "title": "Heavy road bike",
-      "description": "Heavy road bikes are more popular than Gravel Bikes by VelocityX",
-      "brand": "giant",
-      "size_guide": [
-        {
-          "frame_size": "S",
-          "rider_height_cm": "158 – 165",
-          "rider_height_ft": "5'1\" - 5'5\""
-        },
-        {
-          "frame_size": "M",
-          "rider_height_cm": "165 – 178",
-          "rider_height_ft": "5'5\" - 5'10\""
-        },
-        {
-          "frame_size": "L",
-          "rider_height_cm": "178-185",
-          "rider_height_ft": "5'10\" - 6'1\""
-        }
-      ],
-      "variants": [
-        {
-          "id": "AVMCW-10124-V1",
-          "price": "450.00 GBP",
-          "in_stock": "3",
-          "color": "Black"
-        },
-        {
-          "id": "AVMCW-10124-V2",
-          "price": "480.00 GBP",
-          "in_stock": "1",
-          "color": "Red"
-        }
-      ]
-    },
-    {
-      "id": "AVMCW-10125",
-      "title": "E-bike for city ride",
-      "description": "E-bike for city ride is a perfect choice for comfortable and efficient urban commuting",
-      "brand": "Volt",
-      "size_guide": [
-        {
-          "frame_size": "M",
-          "rider_height_cm": "165 – 178",
-          "rider_height_ft": "5'5\" - 5'10\""
-        },
-        {
-          "frame_size": "L",
-          "rider_height_cm": "178-185",
-          "rider_height_ft": "5'10\" - 6'1\""
-        },
-        {
-          "frame_size": "XL",
-          "rider_height_cm": "185 - 193",
-          "rider_height_ft": "6'1\" - 6'4\""
-        }
-      ],
-      "variants": [
-        {
-          "id": "AVMCW-10125-V1",
-          "price": "520.00 GBP",
-          "in_stock": "4",
-          "color": "Blue"
-        },
-        {
-          "id": "AVMCW-10125-V2",
-          "price": "550.00 GBP",
-          "in_stock": "2",
-          "color": "Grey"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "AVMCB - 011",
+    "Product Name": "",
+    "Description": "",
+    "Price": "2.00 GBP"
+  },
+  {
+    "id": "AVMCB - 012",
+    "Product Name": "",
+    "Description": "",
+    "Price": "11.00 GBP"
+  },
+  {
+    "id": "AVMCB - 013",
+    "Product Name": "",
+    "Description": "",
+    "Price": "35.00 GBP"
+  },
+  {
+    "id": "AVMCB - 014",
+    "Product Name": "",
+    "Description": "",
+    "Price": "40.00 GBP"
+  },
+  {
+    "id": "AVMCB - 015",
+    "Product Name": "",
+    "Description": "",
+    "Price": "40.00 GBP"
+  }
+]
