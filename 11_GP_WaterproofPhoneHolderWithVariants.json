@@ -4,7 +4,7 @@
   "description": "MiRiDER Waterproof Phone Holder",
   "products": [
     {
-      "id": "MWPH-01",
+      "product_id": "MWPH-01",
       "title": "MiRiDER Waterproof Phone Holder",
       "description": "MiRiDER Waterproof Phone Holder description. Product from json feed with variants",
       "brand": "MiRiDER",
