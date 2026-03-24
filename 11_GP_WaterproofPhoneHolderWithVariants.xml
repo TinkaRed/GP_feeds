@@ -1,0 +1,26 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <metadata>
+      <ref_application_id>67400302312941180</ref_application_id>
+      <ref_asset_id>406890</ref_asset_id>
+    </metadata>
+    <title>MiRiDER Waterproof Phone Holder xml feed</title>
+    <description>MiRiDER Waterproof Phone Holder xml feed</description>
+    <link>https://WaterproofPhone33.io/</link>
+    <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/48e6d2ca1fe57fd88fd15a57c6d345ab.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <g:adult>no</g:adult>
+      <g:condition>new</g:condition>
+      <g:id>MWPH-22</g:id>
+      <g:title>MiRiDER Waterproof Phone Holder</g:title>
+      <g:description>MiRiDER Waterproof Phone Holder. MiRiDER Waterproof Phone Holder description. Product from xml feed with variants</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:price>84.99 GBP</g:price>
+      <g:link>https://www.fullycharged.com/ozmo-sidekick-mips-helmet/</g:link>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:brand>MiRiDER</g:brand>
+      <g:shipping_weight>1 kg</g:shipping_weight>
+      <g:custom_label_0>H-K25YELWS-XXSM</g:custom_label_0>
+    </item>
+    </channel>
+</rss>
