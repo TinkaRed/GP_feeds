@@ -1,0 +1,44 @@
+{
+  "title": "MiRiDER Waterproof Phone Holder",
+  "link": "https://MiRiDERWaterproofPhoneHolder.io/",
+  "description": "MiRiDER Waterproof Phone Holder",
+  "products": [
+    {
+      "id": "MWPH-01",
+      "title": "MiRiDER Waterproof Phone Holder",
+      "description": "MiRiDER Waterproof Phone Holder description. Product from json feed with variants",
+      "brand": "MiRiDER",
+      "size_guide": [
+        {
+          "frame_size": "S",
+          "rider_height_cm": "158 – 165",
+          "rider_height_ft": "5'1\" - 5'5\""
+        },
+        {
+          "frame_size": "M",
+          "rider_height_cm": "165 – 178",
+          "rider_height_ft": "5'5\" - 5'10\""
+        },
+        {
+          "frame_size": "L",
+          "rider_height_cm": "178-185",
+          "rider_height_ft": "5'10\" - 6'1\""
+        }
+      ],
+      "variants": [
+        {
+          "id": "MWPH-01-V1",
+          "price": "450.00 GBP",
+          "in_stock": "3",
+          "color": "Black"
+        },
+        {
+          "id": "MWPH-01-V2",
+          "price": "480.00 GBP",
+          "in_stock": "1",
+          "color": "Red"
+        }
+      ]
+    }
+  ]
+}
