@@ -11,19 +11,13 @@
       "brand": "MiRiDER",
       "size_guide": [
         {
-          "frame_size": "S",
-          "rider_height_cm": "158 – 165",
-          "rider_height_ft": "5'1\" - 5'5\""
+          "holder_size": "S"
         },
         {
-          "frame_size": "M",
-          "rider_height_cm": "165 – 178",
-          "rider_height_ft": "5'5\" - 5'10\""
+          "holder_size": "M"
         },
         {
-          "frame_size": "L",
-          "rider_height_cm": "178-185",
-          "rider_height_ft": "5'10\" - 6'1\""
+          "holder_size": "L"
         }
       ],
       "variants": [
