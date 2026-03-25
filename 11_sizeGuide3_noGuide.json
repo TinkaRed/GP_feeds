@@ -1,0 +1,36 @@
+{
+  "title": "nosizeGuide3",
+  "link": "https://nosizeGuide3.io/",
+  "description": "nosizeGuide3",
+  "products": [
+    {
+      "product_id": "SG-022",
+      "title": "sizeGuide product bike",
+      "description": "sizeGuide product bike description. Product from json feed with variants",
+      "brand": "sizeGuide",
+      "variants": [
+        {
+          "id": "SG-033-01",
+          "price": "46.00 GBP",
+          "in_stock": "3",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "SG-033-02",
+          "price": "33.00 GBP",
+          "in_stock": "1",
+          "color": "Red",
+          "size": "L"
+        },
+        {
+          "id": "SG-033-03",
+          "price": "44.00 GBP",
+          "in_stock": "1",
+          "color": "Red",
+          "size": "XL"
+        }
+      ]
+    }
+  ]
+}
