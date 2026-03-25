@@ -1,0 +1,47 @@
+{
+  "title": "sizeGuide2",
+  "link": "https://sizeGuide2.io/",
+  "description": "sizeGuide2",
+  "products": [
+    {
+      "product_id": "SG-022",
+      "title": "sizeGuide product bike",
+      "description": "sizeGuide product bike description. Product from json feed with variants",
+      "brand": "sizeGuide",
+      "size_guide": [
+        {
+          "holder_size": "M"
+        },
+        {
+          "holder_size": "L"
+        },
+        {
+          "holder_size": "XL"
+        }
+      ],
+      "variants": [
+        {
+          "id": "SG-022-01",
+          "price": "45.00 GBP",
+          "in_stock": "3",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "SG-022-02",
+          "price": "48.00 GBP",
+          "in_stock": "1",
+          "color": "Red",
+          "size": "L"
+        },
+        {
+          "id": "SG-022-03",
+          "price": "30.00 GBP",
+          "in_stock": "1",
+          "color": "Red",
+          "size": "XL"
+        }
+      ]
+    }
+  ]
+}
