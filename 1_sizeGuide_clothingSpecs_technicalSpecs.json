@@ -4,40 +4,24 @@
   "description": "product with sizeGuide, clothing_specs, technical_specs",
   "products": [
     {
-      "product_id": "SG-022-55",
+      "id": "SG-022-55",
       "title": "product with sizeGuide, clothing_specs, technical_specs",
       "description": "product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants",
       "brand": "excellent",
       "size_guide": [
-        {
-          "product_size": "M"
-        },
-        {
-          "product_size": "L"
-        },
-        {
-          "product_size": "XL"
-        }
+        { "product_size": "M" },
+        { "product_size": "L" },
+        { "product_size": "XL" }
       ],
-      "clothing_specs": [
-        {
-          "length": "100 inch"
-        },
-        {
-          "length": "150 inch"
-        },
-        {
-          "length": "200 inch"
-        }
-      ],
-      "technical_specs": [
-        {
-          "frame_material": "Aluminum",
-        },
-        {
-          "brakes": "Hydraulic Disc"
-        }
-      ],
+      "clothing_specs": {
+        "length_M": "100 inch",
+        "length_L": "150 inch",
+        "length_XL": "200 inch"
+      },
+      "technical_specs": {
+        "frame_material": "Aluminum",
+        "brakes": "Hydraulic Disc"
+      },
       "variants": [
         {
           "id": "SG-022-0155",
