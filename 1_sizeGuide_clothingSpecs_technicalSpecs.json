@@ -1,0 +1,66 @@
+{
+  "title": "product with sizeGuide, clothing_specs, technical_specs",
+  "link": "https://size3.io/",
+  "description": "product with sizeGuide, clothing_specs, technical_specs",
+  "products": [
+    {
+      "product_id": "SG-022-55",
+      "title": "product with sizeGuide, clothing_specs, technical_specs",
+      "description": "product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants",
+      "brand": "excellent",
+      "size_guide": [
+        {
+          "product_size": "M"
+        },
+        {
+          "product_size": "L"
+        },
+        {
+          "product_size": "XL"
+        }
+      ],
+      "clothing_specs": [
+        {
+          "length": "100 inch"
+        },
+        {
+          "length": "150 inch"
+        },
+        {
+          "length": "200 inch"
+        }
+      ],
+      "technical_specs": [
+        {
+          "frame_material": "Aluminum",
+        },
+        {
+          "brakes": "Hydraulic Disc"
+        }
+      ],
+      "variants": [
+        {
+          "id": "SG-022-0155",
+          "price": "45.00 GBP",
+          "in_stock": "3",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "SG-022-0255",
+          "price": "48.00 GBP",
+          "in_stock": "1",
+          "color": "Red",
+          "size": "L"
+        },
+        {
+          "id": "SG-022-0355",
+          "price": "30.00 GBP",
+          "in_stock": "1",
+          "color": "Gold",
+          "size": "XL"
+        }
+      ]
+    }
+  ]
+}
