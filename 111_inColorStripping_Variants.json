@@ -42,6 +42,46 @@
           "size": "S"
         }
       ]
+    },
+    {
+      "product_id": "5543MWPH-02",
+      "title": "TerraForce Mountain cosmic black Series",
+      "description": "TerraForce Mountain Series. ER - stripping for cosmic black",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "5543MWPH-02-V1",
+          "price": "2600.00 GBP",
+          "in_stock": "3",
+          "size": "XS"
+        },
+        {
+          "id": "5543MWPH-02-V2",
+          "price": "2800.00 GBP",
+          "in_stock": "1",
+          "size": "S"
+        }
+      ]
+    },
+    {
+      "product_id": "75543MWPH-02",
+      "title": "Climb satin silver Off-Road Bike in True gray",
+      "description": "StormClimb satin silver Off-Road Bike in True gray. ER - stripping for in True gray",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "75543MWPH-02-V1",
+          "price": "1600.00 GBP",
+          "in_stock": "3",
+          "size": "XS"
+        },
+        {
+          "id": "75543MWPH-02-V2",
+          "price": "1800.00 GBP",
+          "in_stock": "1",
+          "size": "S"
+        }
+      ]
     }
   ]
 }
