@@ -102,6 +102,26 @@
           "size": "S"
         }
       ]
+    },
+    {
+      "product_id": "145543MWPH-02",
+      "title": "ErgoGrip Handlebar Grips nocolorname",
+      "description": "ErgoGrip Handlebar Grips. ER - NO stripping",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "145543MWPH-02-V1",
+          "price": "3600.00 GBP",
+          "in_stock": "3",
+          "size": "XS"
+        },
+        {
+          "id": "145543MWPH-02-V2",
+          "price": "3800.00 GBP",
+          "in_stock": "1",
+          "size": "S"
+        }
+      ]
     }
   ]
 }
