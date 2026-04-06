@@ -1,0 +1,41 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>MiRiDER Waterproof Phone Holder xml feed</title>
+    <description>MiRiDER Waterproof Phone Holder xml feed</description>
+    <link>https://WaterproofPhone33.io/</link>
+    <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/48e6d2ca1fe57fd88fd15a57c6d345ab.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <g:id>MWPH-22</g:id>
+      <g:title>Troy Lee Designs Ace Glove Solid in Real Teal </g:title>
+      <g:description>Troy Lee Designs Ace Glove Solid in Real Teal for color stripping test</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>84.99 GBP</g:price>
+      <g:brand>test brand</g:brand>
+      <g:shipping_weight>1 kg</g:shipping_weight>
+      <g:custom_label_0>XXSM-TEST1</g:custom_label_0>
+    </item>
+    <item>
+      <g:id>MWPH-2233</g:id>
+      <g:title>Troy Lee Designs Ace Glove Solid in Fuchsia</g:title>
+      <g:description>Troy Lee Designs Ace Glove Solid in Fuchsia for color stripping test</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>90.99 GBP</g:price>
+      <g:brand>test brand</g:brand>
+      <g:shipping_weight>1 kg</g:shipping_weight>
+      <g:custom_label_0>XXSM-TEST2</g:custom_label_0>
+    </item>
+    <item>
+      <g:id>MWPH-2233</g:id>
+      <g:title>City Bike Inter Lightweight</g:title>
+      <g:description>City Bike Inter Lightweight for color stripping test. NO srtipping</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>100.99 GBP</g:price>
+      <g:brand>test brand</g:brand>
+      <g:shipping_weight>1 kg</g:shipping_weight>
+      <g:custom_label_0>XXSM-TEST3</g:custom_label_0>
+    </item>
+    </channel>
+</rss>
