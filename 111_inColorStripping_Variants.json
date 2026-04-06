@@ -82,6 +82,26 @@
           "size": "S"
         }
       ]
+    },
+    {
+      "product_id": "45543MWPH-02",
+      "title": "SoftRide Gel Saddle in goldfish orange",
+      "description": "SoftRide Gel Saddle in goldfish orange. ER - stripping for in goldfish orange",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "45543MWPH-02-V1",
+          "price": "52600.00 GBP",
+          "in_stock": "3",
+          "size": "XS"
+        },
+        {
+          "id": "45543MWPH-02-V2",
+          "price": "52800.00 GBP",
+          "in_stock": "1",
+          "size": "S"
+        }
+      ]
     }
   ]
 }
