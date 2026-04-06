@@ -6,8 +6,8 @@
     <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/48e6d2ca1fe57fd88fd15a57c6d345ab.xml" rel="self" type="application/rss+xml"/>
     <item>
       <g:id>MWPH-22</g:id>
-      <g:title>Troy Lee Designs Ace Glove Solid in Real Teal </g:title>
-      <g:description>Troy Lee Designs Ace Glove Solid in Real Teal for color stripping test</g:description>
+      <g:title>Troy Lee Designs Ace Glove Solid in Real Teal</g:title>
+      <g:description>Troy Lee Designs Ace Glove Solid in Real Teal. ER stripping for in Real Teal</g:description>
       <g:availability>in Stock</g:availability>
       <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
       <g:price>84.99 GBP</g:price>
@@ -18,7 +18,7 @@
     <item>
       <g:id>MWPH-2233</g:id>
       <g:title>Troy Lee Designs Ace Glove Solid in Fuchsia</g:title>
-      <g:description>Troy Lee Designs Ace Glove Solid in Fuchsia for color stripping test</g:description>
+      <g:description>Troy Lee Designs Ace Glove Solid in Fuchsia. ER stripping for in Fuchsia</g:description>
       <g:availability>in Stock</g:availability>
       <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
       <g:price>90.99 GBP</g:price>
@@ -29,7 +29,18 @@
     <item>
       <g:id>MWPH-2233</g:id>
       <g:title>City Bike Inter Lightweight</g:title>
-      <g:description>City Bike Inter Lightweight for color stripping test. NO srtipping</g:description>
+      <g:description>City Bike Inter Lightweight for color stripping test. ER - NO srtipping</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>100.99 GBP</g:price>
+      <g:brand>test brand</g:brand>
+      <g:shipping_weight>1 kg</g:shipping_weight>
+      <g:custom_label_0>XXSM-TEST3</g:custom_label_0>
+    </item>
+    <item>
+      <g:id>MWPH-2233</g:id>
+      <g:title>Troy Lee Designs Ace Glove Solid Red</g:title>
+      <g:description>City Bike Inter Lightweight for color stripping test. ER - stripping for Red</g:description>
       <g:availability>in Stock</g:availability>
       <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
       <g:price>100.99 GBP</g:price>
