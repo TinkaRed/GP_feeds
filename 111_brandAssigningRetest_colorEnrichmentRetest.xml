@@ -1,1 +1,62 @@
-
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>brandAssigningRetest_colorEnrichmentRetest xml</title>
+    <description>brandAssigningRetest_colorEnrichmentRetest</description>
+    <link>https://ererer1.io/</link>
+    <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/48e6d2ca1fe57fd88fd15a57c6d345ab.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <g:id>2MWPH-2212</g:id>
+      <g:title>SpinMax Aluminum Bicycle Pedals Anti-Slip Design</g:title>
+      <g:description>SpinMax Aluminum Bicycle Pedals Anti-Slip Design by Shimano. Light and durable.</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>84.99 GBP</g:price>
+      <g:brand></g:brand>
+    </item>
+    <item>
+      <g:id>2MWPH-223313</g:id>
+      <g:title>ChainPro Heavy-Duty Bicycle Chain Replacement by Giant brand</g:title>
+      <g:description>ChainPro Heavy-Duty Bicycle Chain Replacement description</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>33.99 GBP</g:price>
+      <g:brand></g:brand>
+    </item>
+    <item>
+      <g:id>2MWPH-223314</g:id>
+      <g:title>SeatPost Pro Adjustable Suspension Bike Seatpost</g:title>
+      <g:description>SeatPost Pro Adjustable Suspension Bike Seatpost</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>100.99 GBP</g:price>
+      <g:brand>Volt</g:brand>
+    </item>
+    <item>
+      <g:id>2MWPH-223315</g:id>
+      <g:title>WheelGuard Reflective Bicycle Spoke Covers Set by VelocityX</g:title>
+      <g:description>WheelGuard Reflective Bicycle Spoke Covers Set description</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>290.99 GBP</g:price>
+      <g:brand>Giant</g:brand>
+    </item>
+    <item>
+      <g:id>2MWPH-223316</g:id>
+      <g:title>GripLock Secure Bike Handlebar End Caps Set</g:title>
+      <g:description>GripLock Secure Bike Handlebar End Caps Set. Nobody understands what a brand</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>190.99 GBP</g:price>
+      <g:brand></g:brand>
+    </item>
+    <item>
+      <g:id>2MWPH-223317</g:id>
+      <g:title>TrailPack Waterproof Bicycle Frame Storage Bag</g:title>
+      <g:description>TrailPack Waterproof Bicycle Frame Storage Bag description</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>390.99 GBP</g:price>
+      <g:brand>AprilTestBrandNewXML</g:brand>
+    </item>
+    </channel>
+</rss>
