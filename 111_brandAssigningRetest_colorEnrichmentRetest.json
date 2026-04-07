@@ -4,27 +4,27 @@
   "description": "brandAssigningRetest_colorEnrichmentRetest",
   "products": [
     {
-      "id": "AVMCW-10122",
+      "id": "1AVMCW-10122",
       "title": "RoadGrip Performance Bicycle Tires All-Terrain",
       "description": "RoadGrip Performance Bicycle Tires All-Terrain by Shimano. Light and durable.",
       "brand": "",
       "variants": [
         {
-          "id": "AVMCW-10122-V1",
+          "id": "1AVMCW-10122-V1",
           "price": "125.00 GBP",
           "in_stock": "1",
           "compare_price": "200.00 GBP",
           "size": "Small"
         },
         {
-          "id": "AVMCW-10122-V2",
+          "id": "1AVMCW-10122-V2",
           "price": "130.00 GBP",
           "in_stock": "10",
           "compare_price": "200.00 GBP",
           "size": "medium"
         },
         {
-          "id": "AVMCW-10122-V3",
+          "id": "1AVMCW-10122-V3",
           "price": "135.00 GBP",
           "in_stock": "2",
           "compare_price": "200.00 GBP",
@@ -33,19 +33,19 @@
       ]
     },
     {
-      "id": "AVMCW-10123",
+      "id": "1AVMCW-10123",
       "title": "SpeedShift 21-Speed Bike Gear System Kit by Giant brand",
       "description": "SpeedShift 21-Speed Bike Gear System Kit description.",
       "brand": "",
       "variants": [
         {
-          "id": "AVMCW-10123-V1",
+          "id": "1AVMCW-10123-V1",
           "price": "400.00 GBP",
           "in_stock": "2",
           "color": "super bright"
         },
         {
-          "id": "AVMCW-10123-V2",
+          "id": "1AVMCW-10123-V2",
           "price": "500.00 GBP",
           "in_stock": "2",
           "color": "super bright brown"
@@ -53,39 +53,39 @@
       ]
     },
     {
-      "id": "AVMCW-10124",
+      "id": "1AVMCW-10124",
       "title": "PowerStop Hydraulic Disc Brake Set for Bikes",
-      "description": "PowerStop Hydraulic Disc Brake Set for Bikes by VelocityX.",
+      "description": "PowerStop Hydraulic Disc Brake Set for Bikes description",
       "brand": "giant",
       "variants": [
         {
-          "id": "AVMCW-10124-V1",
+          "id": "1AVMCW-10124-V1",
           "price": "450.00 GBP",
           "in_stock": "3",
           "color": "%%%"
         },
         {
-          "id": "AVMCW-10124-V2",
+          "id": "1AVMCW-10124-V2",
           "price": "480.00 GBP",
           "in_stock": "1",
-          "color": "Red"
+          "color": ""
         }
       ]
     },
     {
-      "id": "AVMCW-10125",
-      "title": "FlexiGuard Adjustable Bike Phone Mount Holder",
+      "id": "1AVMCW-10125",
+      "title": "FlexiGuard Adjustable Bike Phone Mount Holder by VelocityX",
       "description": "FlexiGuard Adjustable Bike Phone Mount Holder is a perfect choice for comfortable and efficient urban commuting",
       "brand": "Volt",
       "variants": [
         {
-          "id": "AVMCW-10125-V1",
+          "id": "1AVMCW-10125-V1",
           "price": "520.00 GBP",
           "in_stock": "4",
           "color": "Blue"
         },
         {
-          "id": "AVMCW-10125-V2",
+          "id": "1AVMCW-10125-V2",
           "price": "550.00 GBP",
           "in_stock": "2",
           "color": "Grey"
@@ -93,19 +93,39 @@
       ]
     },
     {
-      "id": "AVMCW-10126",
+      "id": "1AVMCW-10126",
       "title": "RideShield Full Coverage Bicycle Mudguard Set",
       "description": "RideShield Full Coverage Bicycle Mudguard Set, nobody understands what category is, and a brand",
       "brand": "",
       "variants": [
         {
-          "id": "AVMCW-10126-V1",
+          "id": "1AVMCW-10126-V1",
           "price": "530.00 GBP",
           "in_stock": "3",
           "color": "Black"
         },
         {
-          "id": "AVMCW-10126-V2",
+          "id": "1AVMCW-10126-V2",
+          "price": "560.00 GBP",
+          "in_stock": "2",
+          "color": "White"
+        }
+      ]
+    },
+    {
+      "id": "1AVMCW-10126",
+      "title": "AirBoost High Pressure Bike Floor Pump with Gauge",
+      "description": "AirBoost High Pressure Bike Floor Pump with Gauge description",
+      "brand": "AprilTestBrandNewJSON",
+      "variants": [
+        {
+          "id": "1AVMCW-10126-V1",
+          "price": "530.00 GBP",
+          "in_stock": "3",
+          "color": "Black"
+        },
+        {
+          "id": "1AVMCW-10126-V2",
           "price": "560.00 GBP",
           "in_stock": "2",
           "color": "White"
