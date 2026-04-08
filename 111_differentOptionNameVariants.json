@@ -79,13 +79,13 @@
       "brand": "test brand",
       "variants": [
         {
-          "id": "TEST-0993-V1",
+          "id": "TEST-0994-V1",
           "price": "520.00 GBP",
           "in_stock": "4",
           "size": "S"
         },
         {
-          "id": "TEST-0993-V2",
+          "id": "TEST-0994-V2",
           "price": "550.00 GBP",
           "in_stock": "2",
           "size": "M"
@@ -93,20 +93,20 @@
       ]
     },
     {
-      "id": "TEST-099456",
+      "id": "TEST-0995",
       "title": "Trail Light USB Rechargeable Bike Safety Light",
       "description": "Trail Light USB Rechargeable Bike Safety Light",
       "brand": "test brand",
       "variants": [
         {
-          "id": "TEST-0993-V1",
+          "id": "TEST-0995-V1",
           "price": "520.00 GBP",
           "in_stock": "4",
           "size": "S",
           "color": "white"
         },
         {
-          "id": "TEST-0993-V2",
+          "id": "TEST-0995-V2",
           "price": "550.00 GBP",
           "in_stock": "2",
           "size": "M",
@@ -115,20 +115,20 @@
       ]
     },
     {
-      "id": "TEST-0994564",
+      "id": "TEST-0996",
       "title": "Gear Tune Precision Bicycle Derailleur Adjustment Tool",
       "description": "Gear Tune Precision Bicycle Derailleur Adjustment Tool",
       "brand": "test brand",
       "variants": [
         {
-          "id": "TEST-0993-V1",
+          "id": "TEST-0996-V1",
           "price": "520.00 GBP",
           "in_stock": "4",
           "size": "S",
           "color": "green"
         },
         {
-          "id": "TEST-0993-V2",
+          "id": "TEST-0996-V2",
           "price": "550.00 GBP",
           "in_stock": "2",
           "size": "M",
@@ -137,20 +137,20 @@
       ]
     },
     {
-      "id": "TEST-0994564",
+      "id": "TEST-0997",
       "title": "Mud Shield Pro Bicycle Fender Front and Rear Set",
       "description": "Mud Shield Pro Bicycle Fender Front and Rear Set",
       "brand": "test brand",
       "variants": [
         {
-          "id": "TEST-0993-V1",
+          "id": "TEST-0997-V1",
           "price": "520.00 GBP",
           "in_stock": "4",
           "size": "S",
           "color": "green"
         },
         {
-          "id": "TEST-0993-V2",
+          "id": "TEST-0997-V2",
           "price": "550.00 GBP",
           "in_stock": "2",
           "size": "M",
@@ -159,13 +159,13 @@
       ]
     },
     {
-      "id": "TEST-0994564",
+      "id": "TEST-0998",
       "title": "Brake Pad Pro Replacement Bicycle Brake Pads Set",
       "description": "Brake Pad Pro Replacement Bicycle Brake Pads Set",
       "brand": "test brand",
       "variants": [
         {
-          "id": "TEST-0993-V1",
+          "id": "TEST-0998-V1",
           "price": "520.00 GBP",
           "in_stock": "4",
           "size": "S",
@@ -173,7 +173,31 @@
           "material": "cotton"
         },
         {
-          "id": "TEST-0993-V2",
+          "id": "TEST-0998-V2",
+          "price": "550.00 GBP",
+          "in_stock": "2",
+          "size": "M",
+          "color": "green",
+          "material": "silk"
+        }
+      ]
+    },
+    {
+      "id": "TEST-0999",
+      "title": "Carry Bag Waterproof Bicycle Handlebar Storage Bag",
+      "description": "Carry Bag Waterproof Bicycle Handlebar Storage Bag",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-0999-V1",
+          "price": "520.00 GBP",
+          "in_stock": "4",
+          "size": "S",
+          "color": "green",
+          "material": "cotton"
+        },
+        {
+          "id": "TEST-0999-V2",
           "price": "550.00 GBP",
           "in_stock": "2",
           "size": "M",
@@ -182,4 +206,5 @@
         }
       ]
     }
+  ]
 }
