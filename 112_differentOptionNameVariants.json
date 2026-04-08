@@ -122,15 +122,15 @@
           "id": "TEST-0993-V1",
           "price": "520.00 GBP",
           "in_stock": "4",
-          "size": "S",
-          "color": "green"
+          "color": "green",
+          "size": "S"
         },
         {
           "id": "TEST-0993-V2",
           "price": "550.00 GBP",
           "in_stock": "2",
-          "size": "M",
-          "color": "green"
+          "color": "green",
+          "size": "M"
         }
       ]
     },
