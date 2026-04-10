@@ -204,6 +204,15 @@
       <g:material>silk</g:material>
       <g:inventory>1</g:inventory>
     </item>
+    <item>
+      <g:id>TEST-0991-V1</g:id>
+      <g:title>Veltrix AeroLock V91 Orders test</g:title>
+      <g:description>Veltrix AeroLock V91 Orders test</g:description>
+      <g:price>125.00 GBP</g:price>
+      <g:brand>test brand</g:brand>
+      <g:size>Small</g:size>
+      <g:material>silk</g:material>
+    </item>
 
   </channel>
 </rss>
