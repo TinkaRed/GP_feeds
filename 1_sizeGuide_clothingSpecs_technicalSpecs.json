@@ -25,21 +25,21 @@
       "variants": [
         {
           "id": "SG-022-015555",
-          "price": "45.00 GBP",
-          "in_stock": "3",
+          "price": "145.00 GBP",
+          "in_stock": "2",
           "color": "Black",
           "size": "M"
         },
         {
           "id": "SG-022-025555",
-          "price": "48.00 GBP",
+          "price": "148.00 GBP",
           "in_stock": "1",
           "color": "Red",
           "size": "L"
         },
         {
           "id": "SG-022-035555",
-          "price": "30.00 GBP",
+          "price": "130.00 GBP",
           "in_stock": "1",
           "color": "Gold",
           "size": "XL"
