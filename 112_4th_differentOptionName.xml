@@ -8,6 +8,7 @@
       <g:price>125.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:size>Small</g:size>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -17,6 +18,7 @@
       <g:price>130.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:size>medium</g:size>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -26,6 +28,7 @@
       <g:price>135.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:size>Large</g:size>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -35,6 +38,7 @@
       <g:price>400.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:color>red</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -44,6 +48,7 @@
       <g:price>500.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:color>white</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -53,6 +58,7 @@
       <g:price>520.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:material>steel</g:material>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -62,6 +68,7 @@
       <g:price>550.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:material>plastic</g:material>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -71,6 +78,7 @@
       <g:price>520.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:size>S</g:size>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -80,6 +88,7 @@
       <g:price>550.00 GBP</g:price>
       <g:brand>test brand</g:brand>
       <g:size>M</g:size>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -90,6 +99,7 @@
       <g:brand>test brand</g:brand>
       <g:size>S</g:size>
       <g:color>white</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -100,6 +110,7 @@
       <g:brand>test brand</g:brand>
       <g:size>M</g:size>
       <g:color>white</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -110,6 +121,7 @@
       <g:brand>test brand</g:brand>
       <g:size>S</g:size>
       <g:color>green</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -120,6 +132,7 @@
       <g:brand>test brand</g:brand>
       <g:size>M</g:size>
       <g:color>green</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -130,6 +143,7 @@
       <g:brand>test brand</g:brand>
       <g:size>S</g:size>
       <g:color>green</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -140,6 +154,7 @@
       <g:brand>test brand</g:brand>
       <g:size>M</g:size>
       <g:color>green</g:color>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -151,6 +166,7 @@
       <g:size>S</g:size>
       <g:color>green</g:color>
       <g:material>cotton</g:material>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -162,6 +178,7 @@
       <g:size>M</g:size>
       <g:color>green</g:color>
       <g:material>silk</g:material>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -173,6 +190,7 @@
       <g:size>S</g:size>
       <g:color>green</g:color>
       <g:material>cotton</g:material>
+      <g:inventory>1</g:inventory>
     </item>
 
     <item>
@@ -184,6 +202,7 @@
       <g:size>M</g:size>
       <g:color>green</g:color>
       <g:material>silk</g:material>
+      <g:inventory>1</g:inventory>
     </item>
 
   </channel>
