@@ -1,0 +1,56 @@
+{
+  "title": "quantityCheck1",
+  "link": "https://quantityCheck1.io/",
+  "description": "quantityCheck1",
+  "products": [
+    {
+      "id": "TEST-555",
+      "title": "Klyro Frame Bar A7",
+      "description": "Klyro Frame Bar A7 description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-555-V1",
+          "price": "125.00 GBP",
+          "in_stock": "1",
+          "compare_price": "200.00 GBP",
+          "size": "Small"
+        },
+        {
+          "id": "TEST-555-V2",
+          "price": "130.00 GBP",
+          "in_stock": "10",
+          "compare_price": "200.00 GBP",
+          "size": "Medium"
+        },
+        {
+          "id": "TEST-555-V3",
+          "price": "135.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Large"
+        }
+      ]
+    },
+    {
+      "id": "TEST-777",
+      "title": "Nexon Beam Light S3",
+      "description": "Nexon Beam Light S3 description.",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-777-V1",
+          "price": "400.00 GBP",
+          "in_stock": "2",
+          "color": "red"
+        },
+        {
+          "id": "TEST-777-V2",
+          "price": "500.00 GBP",
+          "in_stock": "2",
+          "color": "white"
+        }
+      ]
+    }
+  ]
+}
