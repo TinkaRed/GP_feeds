@@ -12,14 +12,14 @@
         {
           "id": "TEST-555-V1",
           "price": "125.00 GBP",
-          "in_stock": "1",
+          "in_stock": "2",
           "compare_price": "200.00 GBP",
           "size": "Small"
         },
         {
           "id": "TEST-555-V2",
           "price": "130.00 GBP",
-          "in_stock": "10",
+          "in_stock": "2",
           "compare_price": "200.00 GBP",
           "size": "Medium"
         },
