@@ -1,0 +1,26 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>brandAssigningRetest_colorEnrichmentRetest xml</title>
+    <description>brandAssigningRetest_colorEnrichmentRetest</description>
+    <link>https://ererer1.io/</link>
+    <atom:link href="https://feedhub-storage.onecommerce.io/bigcommerce/data_feed/google_feed/48e6d2ca1fe57fd88fd15a57c6d345ab.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <g:id>2MWPH-2212</g:id>
+      <g:title>Torvex Chain Clean R1</g:title>
+      <g:description>Torvex Chain Clean R1 description</g:description>
+      <g:availability>in Stock</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>66.99 GBP</g:price>
+      <g:brand>test brand</g:brand>
+    </item>
+    <item>
+      <g:id>2MWPH-223313</g:id>
+      <g:title>Veltronix Chain Guard X2</g:title>
+      <g:description>Veltronix Chain Guard X2 description</g:description>
+      <g:availability>available</g:availability>
+      <g:image_link>https://cdn11.bigcommerce.com/s-vmg19tetju/product_images/attribute_rule_images/2212_source_1773329068.jpg</g:image_link>
+      <g:price>55.99 GBP</g:price>
+      <g:brand>test brand</g:brand>
+    </item>
+    </channel>
+</rss>
