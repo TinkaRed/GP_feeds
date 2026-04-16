@@ -1,0 +1,35 @@
+[
+  {
+    "id": "88-TEST-01",
+    "Product Name": "Aeroflow Bike Pump Mini Pro",
+    "Description": "Aeroflow Bike Pump Mini Pro description",
+    "Price": "29.00 GBP",
+    "Compare Price": "50.00 GBP"
+  },
+  {
+    "id": "88-TEST-02",
+    "Product Name": "Gripton Pedal Straps Elite",
+    "Description": "Gripton Pedal Straps Elite description",
+    "Price": "0.00 GBP",
+    "Compare Price": "0.00 GBP"
+  },
+  {
+    "id": "88-TEST-03",
+    "Product Name": "FrameX Adjustable Support Bar",
+    "Description": "FrameX Adjustable Support Bar description",
+    "Price": "29.00 GBP",
+    "Compare Price": "0.00 GBP"
+  },
+  {
+    "id": "88-TEST-04",
+    "Product Name": "GearFix Pro Adjustment Tool",
+    "Description": "GearFix Pro Adjustment Tool description",
+    "Price": "0.00 GBP",
+    "Compare Price": "50.00 GBP"
+  },
+  {
+    "id": "88-TEST-05",
+    "Product Name": "NightPulse LED Bike Light",
+    "Description": "NightPulse LED Bike Light description"
+  }
+]
