@@ -1,8 +1,12 @@
-<items>
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>brandAssigningRetest_colorEnrichmentRetest xml</title>
+    <description>brandAssigningRetest_colorEnrichmentRetest</description>
+    
   <item>
     <g:id>QA-10001</g:id>
-    <g:title>Aeroflow Bike Pump Mini Pro Red Edition</g:title>
-    <g:description>Aeroflow Bike Pump Mini Pro description</g:description>
+    <g:title>Mudster Shield Fender Kit</g:title>
+    <g:description>Mudster Shield Fender Kit description</g:description>
     <g:availability>2</g:availability>
     <g:price>29.00 GBP</g:price>
     <g:compare_price>50.00 GBP</g:compare_price>
@@ -10,8 +14,8 @@
 
   <item>
     <g:id>QA-10002</g:id>
-    <g:title>Gripton Pedal Straps Elite Black Version</g:title>
-    <g:description>Gripton Pedal Straps Elite description</g:description>
+    <g:title>Brake X Ultra Stop Pads</g:title>
+    <g:description>Brake X Ultra Stop Pads description</g:description>
     <g:availability>2</g:availability>
     <g:price>0.00 GBP</g:price>
     <g:compare_price>0.00 GBP</g:compare_price>
@@ -19,8 +23,8 @@
 
   <item>
     <g:id>QA-10003</g:id>
-    <g:title>FrameX Adjustable Support Bar Silver Model</g:title>
-    <g:description>FrameX Adjustable Support Bar description</g:description>
+    <g:title>Hydro Ride Handlebar Bag Pro</g:title>
+    <g:description>Hydro Ride Handlebar Bag Pro description</g:description>
     <g:availability>2</g:availability>
     <g:price>29.00 GBP</g:price>
     <g:compare_price>0.00 GBP</g:compare_price>
@@ -28,8 +32,8 @@
 
   <item>
     <g:id>QA-10004</g:id>
-    <g:title>GearFix Pro Adjustment Tool Workshop Kit</g:title>
-    <g:description>GearFix Pro Adjustment Tool description</g:description>
+    <g:title>Trail Core Performance Tires</g:title>
+    <g:description>Trail Core Performance Tires description</g:description>
     <g:availability>2</g:availability>
     <g:price>0.00 GBP</g:price>
     <g:compare_price>50.00 GBP</g:compare_price>
@@ -37,8 +41,10 @@
 
   <item>
     <g:id>QA-10005</g:id>
-    <g:title>NightPulse LED Bike Light Urban Series</g:title>
-    <g:description>NightPulse LED Bike Light description</g:description>
+    <g:title>Bike Tires Kit</g:title>
+    <g:description>Bike Tires Kit description</g:description>
     <g:availability>2</g:availability>
   </item>
-</items>
+  
+</channel>
+</rss>
