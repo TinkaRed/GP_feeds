@@ -36,5 +36,13 @@
     "Product Name": "NightPulse LED Bike Light",
     "Description": "NightPulse LED Bike Light description",
     "Available": "2"
+  },
+  {
+    "id": "88-TEST-06",
+    "Product Name": "Compact Alloy Bicycle Pump S-100",
+    "Description": "Compact Alloy Bicycle Pump S-100 description",
+    "Price": "160.00 GBP",
+    "Compare Price": "260.00 GBP",
+    "Available": "2"
   }
 ]
