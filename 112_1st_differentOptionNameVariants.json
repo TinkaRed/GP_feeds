@@ -34,15 +34,15 @@
     },
     {
       "id": "TEST-0992",
-      "title": "Ride Air Portable Mini Bike Pump Compact Design",
+      "title": "Ride Air Portable Mini Bike Pump Compact Design by Shimano",
       "description": "RideAir Portable Mini Bike Pump Compact Design description.",
-      "brand": "test brand",
+      "brand": "",
       "variants": [
         {
           "id": "TEST-0992-V1",
           "price": "400.00 GBP",
           "in_stock": "2",
-          "color": "red"
+          "color": "Quantum Red"
         },
         {
           "id": "TEST-0992-V2",
@@ -54,7 +54,7 @@
     },
     {
       "id": "TEST-0993",
-      "title": "Pedal Grip Rubber Bicycle Pedal Straps Set",
+      "title": "Pedal Grip Rubber Bicycle Pedal Straps Set by Shimano",
       "description": "Pedal Grip Rubber Bicycle Pedal Straps Set",
       "brand": "test brand",
       "variants": [
@@ -74,7 +74,7 @@
     },
     {
       "id": "TEST-0994",
-      "title": "Frame Flex Adjustable Bicycle Frame Adapter Bar",
+      "title": "Frame Flex Adjustable Bicycle Frame Adapter Bar in Red",
       "description": "Frame Flex Adjustable Bicycle Frame Adapter Bar",
       "brand": "test brand",
       "variants": [
@@ -94,7 +94,7 @@
     },
     {
       "id": "TEST-0995",
-      "title": "Trail Light USB Rechargeable Bike Safety Light",
+      "title": "Trail Light USB Rechargeable Bike Safety Light starlight",
       "description": "Trail Light USB Rechargeable Bike Safety Light",
       "brand": "test brand",
       "variants": [
