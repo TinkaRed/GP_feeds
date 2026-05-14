@@ -33,22 +33,22 @@
       ]
     },
     {
-      "id": "TEST-15",
-      "title": "Iron Path Cycling Forge",
-      "description": "Iron Path Cycling Forge description.",
+      "id": "TEST-16",
+      "title": "Silent Peak Ride Studio",
+      "description": "Silent Peak Ride Studio description.",
       "brand": "test brand",
       "variants": [
         {
-          "id": "TEST-15-V1",
+          "id": "TEST-16-V1",
           "price": "400.00 GBP",
           "in_stock": "2",
-          "color": "red"
+          "size": "S"
         },
         {
-          "id": "TEST-15-V2",
+          "id": "TEST-16-V2",
           "price": "500.00 GBP",
           "in_stock": "2",
-          "color": "white"
+          "size": "M"
         }
       ]
     }
