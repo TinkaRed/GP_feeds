@@ -12,14 +12,14 @@
         {
           "id": "TEST-14-V1",
           "price": "125.00 GBP",
-          "in_stock": "2",
+          "in_stock": "0",
           "compare_price": "200.00 GBP",
           "size": "S"
         },
         {
           "id": "TEST-14-V2",
           "price": "130.00 GBP",
-          "in_stock": "2",
+          "in_stock": "0",
           "compare_price": "200.00 GBP",
           "size": "M"
         },
@@ -41,7 +41,7 @@
         {
           "id": "TEST-16-V1",
           "price": "400.00 GBP",
-          "in_stock": "2",
+          "in_stock": "0",
           "size": "S"
         },
         {
@@ -49,6 +49,12 @@
           "price": "500.00 GBP",
           "in_stock": "2",
           "size": "M"
+        },
+        {
+          "id": "TEST-16-V3",
+          "price": "500.00 GBP",
+          "in_stock": "2",
+          "size": "L"
         }
       ]
     }
