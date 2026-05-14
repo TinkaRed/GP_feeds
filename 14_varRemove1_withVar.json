@@ -39,12 +39,6 @@
       "brand": "test brand",
       "variants": [
         {
-          "id": "TEST-16-V1",
-          "price": "400.00 GBP",
-          "in_stock": "3",
-          "size": "S"
-        },
-        {
           "id": "TEST-16-V2",
           "price": "500.00 GBP",
           "in_stock": "2",
