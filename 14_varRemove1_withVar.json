@@ -1,0 +1,56 @@
+{
+  "title": "varRemove1",
+  "link": "https://varRemove1.io/",
+  "description": "varRemove1",
+  "products": [
+    {
+      "id": "TEST-14",
+      "title": "Neon Drift Velocity Works",
+      "description": "Neon Drift Velocity Works description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-14-V1",
+          "price": "125.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "S"
+        },
+        {
+          "id": "TEST-14-V2",
+          "price": "130.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "M"
+        },
+        {
+          "id": "TEST-14-V3",
+          "price": "135.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "L"
+        }
+      ]
+    },
+    {
+      "id": "TEST-15",
+      "title": "Iron Path Cycling Forge",
+      "description": "Iron Path Cycling Forge description.",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-15-V1",
+          "price": "400.00 GBP",
+          "in_stock": "2",
+          "color": "red"
+        },
+        {
+          "id": "TEST-15-V2",
+          "price": "500.00 GBP",
+          "in_stock": "2",
+          "color": "white"
+        }
+      ]
+    }
+  ]
+}
