@@ -51,6 +51,28 @@
           "color": "white"
         }
       ]
+    },
+    {
+      "id": "TEST-11",
+      "title": "Steel Horizon Ride Factory in super red starlight",
+      "description": "Steel Horizon Ride Factory in super red starlight description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-11-V1",
+          "price": "400.00 GBP",
+          "in_stock": "2",
+          "color": "red",
+          "size": "Large"
+        },
+        {
+          "id": "TEST-11-V2",
+          "price": "500.00 GBP",
+          "in_stock": "2",
+          "color": "white",
+          "size": "Large"
+        }
+      ]
     }
   ]
 }
