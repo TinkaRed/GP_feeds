@@ -1,1 +1,36 @@
 
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>SimplifyColorNameStripping.xml</title>
+    <description>SimplifyColorNameStripping.xml</description>
+    
+  <item>
+    <g:id>QA-10</g:id>
+    <g:title>Stormline Pedal Craft House in blue</g:title>
+    <g:description>Stormline Pedal Craft House in blue description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>29.00 GBP</g:price>
+    <g:compare_price>50.00 GBP</g:compare_price>
+  </item>
+
+  <item>
+    <g:id>QA-11</g:id>
+    <g:title>Crimson Trail Cycle Garage in bright blue</g:title>
+    <g:description>Crimson Trail Cycle Garage in bright blue description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>0.00 GBP</g:price>
+    <g:compare_price>0.00 GBP</g:compare_price>
+  </item>
+
+  <item>
+    <g:id>QA-12</g:id>
+    <g:title>Orbit Shift Bike Collective in super cute color</g:title>
+    <g:description>Orbit Shift Bike Collective in super cute color description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>29.00 GBP</g:price>
+    <g:compare_price>0.00 GBP</g:compare_price>
+  </item>
+
+  
+</channel>
+</rss>
