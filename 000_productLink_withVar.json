@@ -1,1 +1,38 @@
 
+{
+  "title": "productLink_withVar.json",
+  "link": "https://productLink_withVar.json/",
+  "description": "productLink_withVar.json",
+  "products": [
+    {
+      "id": "TEST-555",
+      "title": "Iron Leaf Rider",
+      "description": "Iron Leaf Rider description",
+      "brand": "test brand",
+      "product_URL": "https://mirider.co.uk/product/mirider-waterproof-phone-holder/",
+      "variants": [
+        {
+          "id": "TEST-555-V1",
+          "price": "125.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Small"
+        },
+        {
+          "id": "TEST-555-V2",
+          "price": "130.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Medium"
+        },
+        {
+          "id": "TEST-555-V3",
+          "price": "135.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Large"
+        }
+      ]
+    }
+  ]
+}
