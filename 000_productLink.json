@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "TEST-888",
+    "Product URL": "https://mirider.co.uk/product/livall-smart-cycle-helmet-evo21-dark-night/",
+    "Product Name": "Dravik Gear Tool P8",
+    "Description": "Dravik Gear Tool P8 description",
+    "Price": "200.00 GBP",
+    "brand": "test brand",
+    "in_stock": "2"
+  }
+]
