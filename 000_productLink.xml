@@ -1,1 +1,17 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>priceCheck_noVAR xml</title>
+    <description>priceCheck_noVAR xml</description>
 
+  <item>
+    <g:id>QA-10002</g:id>
+    <g:product_url>https://mirider.co.uk/product/mirider-16-compact-folding-electric-bike/</g:product_url>
+    <g:title>Night Trail Vector X</g:title>
+    <g:description>Night Trail Vector X description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>0.00 GBP</g:price>
+    <g:compare_price>0.00 GBP</g:compare_price>
+  </item>
+  
+</channel>
+</rss>
