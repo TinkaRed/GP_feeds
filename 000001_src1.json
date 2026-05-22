@@ -1,0 +1,39 @@
+{
+  "title": "src.json",
+  "link": "https://src.json/",
+  "description": "src.json",
+  "products": [
+    {
+      "id": "TEST-4",
+      "title": "Storm Wheel XR",
+      "description": "Storm Wheel XR description",
+      "brand": "test brand",
+      "product_URL": "https://mirider.co.uk/product/mirider-waterproof-phone-holder/"
+      "variants": [
+        {
+          "id": "TEST-555-V1",
+          "price": "125.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Small",
+          "variant_picture": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6327f789e2aa01ca7db898df/0x0.png"
+        },
+        {
+          "id": "TEST-555-V2",
+          "price": "130.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Medium",
+          "variant_picture": "https://bikerumor.com/wp-content/uploads/2024/10/Buycycle-Sells-Bike-Compnents-wheels-jpeg.webp"
+        },
+        {
+          "id": "TEST-555-V3",
+          "price": "135.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Large"
+        }
+      ]
+    }
+  ]
+}
