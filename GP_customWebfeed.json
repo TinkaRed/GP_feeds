@@ -1,4 +1,41 @@
 [
+    {
+    "id": "AX-77419-ZQ56",
+    "Product ID": "PR-88001-LM56",
+    "Product Name": "TrailBlazer Shock Absorber Kit",
+    "Product Brand": "VelocityX",
+    "Product URL": "https://www.cycleshopworld.com/product/ironcliff-apex-29",
+    "Description": "TrailBlazer Shock Absorber Kit - Advanced mountain bike with lightweight alloy frame and hydraulic braking system designed for trail performance",
+    "Image URLs": "https://mirider.co.uk/wp-content/uploads/2020/12/MiRider-Accessories-Dec-3-650x650.jpg",
+    "Category": "Mountain Bikes",
+    "Product Color": "Midnight Black",
+    "Price": "1240 GBP",
+    "ComparePrice": "2900 GBP",
+    "quantity": "3",
+    "size_guide": [
+      {
+        "frame_size": "S",
+        "rider_height_cm": "158 – 165",
+        "rider_height_ft": "5'1\" - 5'5\""
+      },
+      {
+        "frame_size": "M",
+        "rider_height_cm": "165 – 178",
+        "rider_height_ft": "5'5\" - 5'10\""
+      },
+      {
+        "frame_size": "L",
+        "rider_height_cm": "178-185",
+        "rider_height_ft": "5'10\" - 6'1\""
+      },
+      {
+        "frame_size": "XL",
+        "rider_height_cm": "185 - 193",
+        "rider_height_ft": "6'1\" - 6'4\""
+      }
+    ]
+  },
+
   {
     "id": "KM-90217-UR56",
     "Product ID": "ZX-44081-PQ56",
